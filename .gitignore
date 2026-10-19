@@ -1,0 +1,12 @@
+node_modules/
+build/
+.DS_Store
+*.log
+
+# Never commit downloaded deployments or other binaries
+*.wasm
+*.zip
+*.eim
+*.bin
+*.tflite
+*.npy
