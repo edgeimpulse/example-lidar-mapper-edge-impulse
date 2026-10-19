@@ -105,3 +105,7 @@ Try with more data and more spaces in your environment and share feedback!
 This project is intended for educational and experimental purposes only. It is not hardened for production use. Use responsibly. Do not deploy in any safety-critical environments without proper security, testing, and validation. Try it and improve it!
 
 
+## License
+
+[BSD 3-Clause Clear](LICENSE)
+
